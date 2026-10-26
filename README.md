@@ -1,6 +1,6 @@
 ## Hotel Booking Analysis | Data Science & Hospitality Analytics Project | Python
 
-## Data_Science
+## Data Science
 
 ### 💻Project Highlights
 
