@@ -1,4 +1,4 @@
-## Hotel_Booking_Analysis | Data_Science & Hospitality_Analytics_Project | Python
+## Hotel Booking Analysis | Data Science & Hospitality Analytics Project | Python
 
 ## Data_Science
 
