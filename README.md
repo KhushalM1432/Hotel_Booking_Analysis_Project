@@ -2,7 +2,7 @@
 
 ## Data_Science
 
-### Project Highlights
+### 💻Project Highlights
 
 1. **Business Problem Analysis:** Analyzed hotel booking data to understand booking behavior, cancellation trends, seasonal demand, and factors associated with reservation performance.
 
